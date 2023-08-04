@@ -1,4 +1,4 @@
-# Annem Kim Discord Bot (MamaBot)
+# MamaBot (Annem Kim)
 
 ## Description
 My Mom Kim (MamaBot) is a work that answers the questions of "annem kim, babam kim" for entertainment purposes on Discord servers with the specified names and has administrator permissions. MamaBot aims to work together with the Discord JS v14 library and cheer up the server atmosphere and make the users get together and have a pleasant time.
