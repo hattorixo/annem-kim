@@ -13,5 +13,14 @@ My Mom Kim (MamaBot) is a work that answers the questions of "annem kim, babam k
 To install MamaBot, you have to go to https://discord.com/developers and create a bot in your project. Don't forget to turn on the Message Content Intent setting. Then the OAuth2 URL Generator sections came the bot left and then run the URL in your browser. This way the bot joins on your server.
 The parts to be changed are the parts in the comments.
 
+To run this project, you must first install the latest version Node JS. Then do the following in terminal:
+
+```
+$ npm install discord.js
+$ npm install axios
+$ npm install fs
+```
+And here we go, you can run it from bat file or terminal.
+
 ## Support and Contributions
 This project is open source and encourages participation in the development process community. You can leave a star to the project for support. You can also notify us on GitHub for bug reports and suggestions.
