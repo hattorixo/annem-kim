@@ -1,0 +1,42 @@
+{
+  "kadin": [
+    {
+      "name": "Angelina Jolie",
+      "image": ""
+    },
+    {
+      "name": "Natalie Portman",
+      "image": ""
+    },
+    {
+      "name": "Emma Watson",
+      "image": ""
+    }
+  ],
+  "erkek": [
+    {
+      "name": "Patrick Bateman",
+      "image": ""
+    },
+    {
+      "name": "Tyler Durden",
+      "image": ""
+    },
+    {
+      "name": "Saul Goodman",
+      "image": ""
+    },
+    {
+      "name": "Travis Bickle",
+      "image": ""
+    },
+    {
+      "name": "Rick Grimes",
+      "image": ""
+    },
+    {
+      "name": "Ryan Gosling",
+      "image": ""
+    }
+  ]
+}
