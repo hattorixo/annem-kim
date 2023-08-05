@@ -26,4 +26,4 @@ And here we go, you can run it from bat file or terminal.
 ![](https://cdn.discordapp.com/attachments/756255688195571756/1137224528657907814/2023-08-05_06_19_35-sokbet___yesler_alem_-_Discord.png)
 
 ## Support and Contributions
-This project is open source and encourages participation in the development process community. You can leave a star to the project for support. You can also notify us on GitHub for bug reports and suggestions.
+This project is open source and encourages participation in the development process community. You can star repository for supporting me.
